@@ -26,7 +26,7 @@ This is an **is a** relationship:
 - A car **is a** vehicle.
 - A truck **is a** vehicle.
 - An SUV **is a** vehicle.
-
+-
 In programming, this relationship can be modeled using **inheritance**.
 
 ---
